@@ -1,4 +1,4 @@
 # patil-vedika
-This is my first git repository
+This Is My First Git Repository
 <br>
-Author:vedika patil
+Author : Vedika Patil
